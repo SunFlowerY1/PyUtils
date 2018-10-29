@@ -19,3 +19,4 @@ class Tool:
 
 if __name__ == '__main__':
     T = Tool()
+    print "Hello World"
